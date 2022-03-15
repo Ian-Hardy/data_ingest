@@ -2,7 +2,7 @@
 
 This repository provides an exploration of statistical methods for automated data ingest
 
-The notebooks "common_distribution_testing," "scale_testing," and "dsitribution_drift_testing" all explore a variety of statistical tests (Welch's T Test, MDL, KS Testing, KL Divergence, and PSI Testing) for automated column matching with limited information. 
+The notebooks "common_distribution_testing," "scale_testing," and "dsitribution_drift_testing" all explore a variety of statistical tests (Welch's T Test, MDL, KS Testing, KL Divergence, and PSI Testing) for automated column matching with limited information in a variety of scenarios.
 
 The notebook one_to_many_cat_testing explores an attempt at trying to model 1:many translation between categorical features, where one or more feature values may have been split in the ingest data.
 
